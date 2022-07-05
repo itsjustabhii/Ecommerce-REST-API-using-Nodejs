@@ -5,4 +5,8 @@ E-commerce application built using Nodejs, ExpressJS, MongoDB for database with 
   to install cryptojs
   * npm i crypto-js
   
+- Payment facility made possible using Stripe Payment Gateway
+  to install Stripe
+  * npm i stripe
+  
   
